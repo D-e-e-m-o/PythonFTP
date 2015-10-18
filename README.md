@@ -20,3 +20,4 @@ Python FTP server
 ftps目前无法使用
 
 使用前请以管理员权限运行`install_module.sh`文件安装必须的模块，并保证你的电脑上python版本>=2.7
+不过，本人为了测试，使用了python3.5
